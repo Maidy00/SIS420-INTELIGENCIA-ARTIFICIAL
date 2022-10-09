@@ -1,0 +1,9 @@
+INTEGRANTES:
+-Maidy Rocio Mamani Lugo
+-Jorge Rodrigo Morant Jalacori
+-Segovia Vargas Gerson
+-Carlos Alberto Mora Vallejos 
+-Beimar Miguel Ceron
+-Felix Antonio Flores Yampara
+
+Este agente es de racionalidad por que nos maximiza un resultado esperado y utilizamos un agente basado en objeto para utilizar una descripcion de la meta a la cual tiene que alcanzar que le va a sirvir para escoger entre las distintas acciones posibles en un entorno determinista para realizar lo que tiene que hacer en un tiempo entorno estatico  por que no cambia el mapa

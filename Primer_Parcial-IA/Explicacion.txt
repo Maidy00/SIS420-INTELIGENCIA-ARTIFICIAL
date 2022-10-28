@@ -1,0 +1,2 @@
+Para el ejercio 3 del acertijo del (lechuga, lobo, oveja) utilice busquedas no informadas( busquedas primero en Anchura ya que expande y examina todos los nodos de un árbol sistemáticamente para buscar una solución. 
+Para realizar el problema utilice 8 estados( Lechuga, lobo, oveja, persona, vacio, vacio, vacio, vacio) utilice el "vacio" para poder trasladar los objetos como indica el problema de "lado1:lechuga, lobo, oveja, persona ; lado2: vacio, vacio, vacio, vacio"
